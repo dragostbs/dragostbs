@@ -1,5 +1,5 @@
-## <div align="center">I'm Dragos, junior software developer 👨‍💻</div>  
-  
+[![MasterHead]("https://media4.giphy.com/media/reBJhPplHVTOsojMek/200.gif?cid=790b761134ce8301e5e07a0724e82cd4095393cdf9920798&rid=200.gif&ct=g")]
+
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
