@@ -25,7 +25,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 <br/>  
 
 
-## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 - 🎓  I’m currently learning Javascript, React, .NET  
   
