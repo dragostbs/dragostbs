@@ -30,7 +30,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 - 📬  How to reach me dragos.boscan.tbs@gmail.com  
 
 <div align="right">
-<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="center" style="width: 50%" />
 </div>  
 
 
