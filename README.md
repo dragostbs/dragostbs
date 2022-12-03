@@ -1,4 +1,4 @@
-![MarkHead](https://i.ibb.co/58R7SwZ/img.png)
+![MarkHead](https://i.ibb.co/wgznY0m/Group-2.png)
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
