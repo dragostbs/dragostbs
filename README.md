@@ -24,6 +24,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 <br/>  
 
+## More about me
 - 🎓  I’m currently learning Javascript, React, .NET  
   
 
@@ -31,7 +32,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 
 <div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 20%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 40%" />
 </div>  
 
 <br/>  
