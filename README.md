@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boscan Dragos</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragostbs&label=Profile%20views&color=0e75b6&style=flat" alt="dragostbs" /> </p>
-
 - 🌱 I’m currently learning **Javascript, React, .NET**
 
 - 📫 How to reach me **dragos.boscan.tbs@gmail.com**
