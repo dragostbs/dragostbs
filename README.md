@@ -79,21 +79,3 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragostbs&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
