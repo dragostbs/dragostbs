@@ -24,23 +24,15 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 <br/>  
 
-
-<table><tr><td valign="top" width="50%">
-
 - 🎓  I’m currently learning Javascript, React, .NET  
   
 
 - 📬  How to reach me dragos.boscan.tbs@gmail.com  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="right">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 20%" />
 </div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
