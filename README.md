@@ -1,4 +1,4 @@
-## <div align="center">I'm Dragos, junior software developer 👨‍💻</div>  
+![MarkHead](C:\Users\UserHome\Downloads\Group 2.png) 
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
