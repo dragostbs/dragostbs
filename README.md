@@ -16,7 +16,7 @@
 
 
 
-### Glad to see you here!  
+## Glad to see you here!  
 I'm studying Information Systems and Data Science. Motivated to become a Sofware Developer, to be part of a team in which I can build and develop new web applications. 
 
 The passion for Coding, started with the courses that I attended, especially Javascript, React programing and .NET where I used  MVC and implementing different features such as GRPC, Web API, SignalR with C# and JavaScript for DOM manipulations to build the front-end part, where HTML, CSS and Bootstrap for the styling of the applications.  
