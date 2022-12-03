@@ -29,8 +29,10 @@ The passion for Coding, started with the courses that I attended, especially Jav
 <table>
   <tr>
     <td valign="top">
-     - 🎓  I’m currently learning Javascript, React, .NET  
-     - 📬  How to reach me dragos.boscan.tbs@gmail.com  
+      <div>
+        - 🎓  I’m currently learning Javascript, React, .NET  
+        - 📬  How to reach me dragos.boscan.tbs@gmail.com  
+      </div>
     </td>
     <td valign="top"><img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" style="width: 75%" /></td>
   </tr>
