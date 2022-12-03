@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boscan Dragos</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/boscan-dragos-4a7a631b7/](https://www.linkedin.com/in/boscan-dragos-4a7a631b7/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/boscan-dragos-4a7a631b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boscan dragos" height="30" width="40" /></a>
