@@ -16,7 +16,7 @@
 
 
 
-## Glad to see you here!  
+### Glad to see you here!  
 I'm studying Information Systems and Data Science. Motivated to become a Sofware Developer, to be part of a team in which I can build and develop new web applications. 
 
 The passion for Coding, started with the courses that I attended, especially Javascript, React programing and .NET where I used  MVC and implementing different features such as GRPC, Web API, SignalR with C# and JavaScript for DOM manipulations to build the front-end part, where HTML, CSS and Bootstrap for the styling of the applications.  
@@ -24,18 +24,27 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 <br/>  
 
-## More about me
 
-        - 🎓  I’m currently learning Javascript, React, .NET  
-        - 📬  How to reach me dragos.boscan.tbs@gmail.com  
+## More about me 
+<table><tr><td valign="top" width="50%">
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" style="width: 75%" /></td>
-  </tr>
-</table>
+- 🎓  I’m currently learning Javascript, React, .NET  
+  
+
+- 📬  How to reach me dragos.boscan.tbs@gmail.com  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
+
 
 ## Languages and Tools  
 <div align="center">  
@@ -60,9 +69,13 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 <br/>  
 
+
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=dragostbs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 51%" /></div>
+<table><tr><td valign="top" width="50%">
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dragostbs&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragostbs&hide_border=true&layout=compact" align="right" style="width: 43%" /></div>
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragostbs&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
