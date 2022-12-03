@@ -1,4 +1,4 @@
-
+## <div align="center">I'm Dragos, junior software developer 👨‍💻</div>  
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
