@@ -31,8 +31,8 @@ The passion for Coding, started with the courses that I attended, especially Jav
 - 📬  How to reach me dragos.boscan.tbs@gmail.com  
 
 
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 40%" />
 </div>  
 
 <br/>  
