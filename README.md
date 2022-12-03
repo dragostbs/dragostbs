@@ -32,7 +32,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)" align="right" style="width: 40%" />
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" style="width: 40%" />
 </div>  
 
 <br/>  
