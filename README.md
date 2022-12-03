@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/reBJhPplHVTOsojMek/200.gif?cid=790b761134ce8301e5e07a0724e82cd4095393cdf9920798&rid=200.gif&ct=g)
+![MasterHead](https://media4.giphy.com/media/406V3CFjxKx8EgvsQh/giphy.gif?cid=790b7611848c35322821993801f523d94e58d24faadd0137&rid=giphy.gif&ct=g)
 
 
 <div align="center">
