@@ -1,4 +1,4 @@
-![MarkHead](https://media1.giphy.com/media/PqAqKmh8LZskLcJn00/giphy.gif?cid=790b761196f0f819b0ed4ee94f43bdd27cd4bc4edf769dcc&rid=giphy.gif&ct=g)
+![MarkHead](https://ibb.co/r6wWzN9)
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
