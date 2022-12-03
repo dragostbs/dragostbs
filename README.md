@@ -1,4 +1,4 @@
-![MarkHead](C:\Users\UserHome\Downloads\Group 2.png) 
+![MarkHead](https://www.figma.com/file/3nmV6qn34ckfhAA5RH6QuE/Untitled?node-id=126%3A542&t=CrXhd6qkv3tTA5HQ-4)
 
 <div align="center">
 <a href="https://github.com/dragostbs" target="_blank">
