@@ -58,7 +58,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 
 ## Github Stats  
-<p><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragostbs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="dragostbs" /></p>
+<p><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragostbs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dragostbs" /></p>
 
-<p>&nbsp;<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=dragostbs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="dragostbs" /></p>
+<p>&nbsp;<img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=dragostbs&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="dragostbs" /></p>
 
