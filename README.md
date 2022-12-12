@@ -29,7 +29,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 
 - 🎓  I’m currently learning Javascript, React, .NET  
 - 📬  Reach me dragos.boscan.tbs@gmail.com \
-- 📁  [Portfolio](https://adorable-peony-8dfc2a.netlify.app/) 
+- 📁  Portfolio [Live Here](https://adorable-peony-8dfc2a.netlify.app/) 
 
 
 <br/>  
