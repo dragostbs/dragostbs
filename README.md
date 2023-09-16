@@ -16,9 +16,7 @@
 
 
 ### Glad to see you here!  
-I'm studying Information Systems and Data Science. Motivated to become a Sofware Developer, to be part of a team in which I can build and develop new web applications. 
-
-The passion for Coding, started with the courses that I attended, especially Javascript, React programing and .NET where I used  MVC and implementing different features such as GRPC, Web API, SignalR with C# and JavaScript for DOM manipulations to build the front-end part, where HTML, CSS and Bootstrap for the styling of the applications.  
+I am gaining experience as a Data Engineer, working with AWS Redshift, MySQL, Postgres and Python. In this role, I engage in ETL Processes, which are crucial for data preparation and management. The combination of data engineering and software development skills allows me to bring a unique perspective to projects.
   
 
 <br/>  
@@ -27,7 +25,7 @@ The passion for Coding, started with the courses that I attended, especially Jav
 ## More about me 
 <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" style="width: 50%" />
 
-- 🎓  I’m currently learning Javascript, React, .NET  
+- 🎓  I’m currently working as a Data Engineer  
 - 📬  Reach me dragos.boscan.tbs@gmail.com 
 - 📁  Portfolio [Live Here](https://adorable-peony-8dfc2a.netlify.app/) 👈 
 
