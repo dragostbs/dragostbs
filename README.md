@@ -13,8 +13,6 @@
 </div>  
   
 
-
-
 ### Glad to see you here!  
 I am gaining experience as a Data Engineer, working with AWS Redshift, MySQL, Postgres and Python. In this role, I engage in ETL Processes, which are crucial for data preparation and management. The combination of data engineering and software development skills allows me to bring a unique perspective to projects.
   
